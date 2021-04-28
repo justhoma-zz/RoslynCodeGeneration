@@ -1,5 +1,5 @@
 ## Description
-This sample shows how you can use Microsoft Code Analysis (Roslyn) to generator code.
+This sample shows how you can use Microsoft Code Analysis (Roslyn) to generate code.
 
 ### Usage 
 
